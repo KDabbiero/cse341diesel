@@ -1,0 +1,24 @@
+{
+  "name": "personal-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KDabbiero/cse341diesel.git"
+  },
+  "author": "Kate Dabbiero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KDabbiero/cse341diesel/issues"
+  },
+  "homepage": "https://github.com/KDabbiero/cse341diesel#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
